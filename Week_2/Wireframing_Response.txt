@@ -1,0 +1,3 @@
+The reading discusses a process in prototyping/developing a website in a professional environment.
+It discusses how to consider the circumstances around developing a website for better interaction with its environment.
+One of the more interesting aspects of the process was getting feedback early to understand a product's limitations for interaction.
