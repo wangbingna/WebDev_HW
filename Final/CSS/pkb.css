@@ -1,0 +1,8 @@
+#container{
+	width:225px;
+  	height:250px;
+  	background: url(../img/battle.png);
+  	border: 1px solid #666666;
+  	position:relative;
+  	margin: auto;
+}
