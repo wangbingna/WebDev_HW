@@ -6,3 +6,7 @@
   	position:relative;
   	margin: auto;
 }
+
+h2, p{
+	text-align: center;
+}

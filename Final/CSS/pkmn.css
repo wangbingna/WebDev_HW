@@ -23,3 +23,8 @@ figure{
 	  height: 100px;
 	  word-wrap: break-word;
 }
+
+
+#leftCol a{
+    font-size: 18px;
+}

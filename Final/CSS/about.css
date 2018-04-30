@@ -1,18 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC|VT323');
+
 h3{
 	padding-left: 100px;
 }
 
-.grid-container {
-  	display: grid;
-  	grid-template-columns: auto auto;
-  	grid-gap: 10px;
-  	padding: 10px;
-  	justify-content: stretch;
-  	align-content: center;
-  	width: 1200px;
-}
-
-.ab{
+.col-md-6{
 	width: 650px;
 	height: 400px;
 	font-size: 35px;
@@ -54,15 +46,4 @@ figure:hover .overlay{
   	left: 50%;
  	transform: translate(-50%, -50%);
   	/*-ms-transform: translate(-50%, -50%);*/
-}
-
-footer{
-	left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
-    font-size: 30px;
-    position: fixed;
 }
